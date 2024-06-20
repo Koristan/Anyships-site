@@ -1,0 +1,23 @@
+@font-face {
+    font-family: "SF Pro display";
+    font-weight: 400;
+    src: url(SF-Pro-Display-Regular.otf);
+}
+
+@font-face {
+    font-family: "SF Pro display";
+    font-weight: 600;
+    src: url(SF-Pro-Display-Semibold.otf);
+}
+
+@font-face {
+    font-family: "Sharp Grotesk";
+    font-weight: 500;
+    src: url(Sharp-Grotesk-DB-Cyr-Medium-22-Regular.ttf);
+}
+
+@font-face {
+    font-family: "Joane";
+    font-weight: 700;
+    src: url(Joane-Bold.ttf);
+}
